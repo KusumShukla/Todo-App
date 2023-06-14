@@ -7,8 +7,8 @@ const Layout = () => {
     <div className="main-container">
       <AuthStatus />
       <header className="app-title">
-        <h2>Todo App</h2>
-        <h3>Here we updated new dev1 branch</h3>
+        <h2>Todo Application</h2>
+        
       </header>
 
       <Outlet />
