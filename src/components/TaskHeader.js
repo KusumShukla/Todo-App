@@ -10,4 +10,4 @@ const TaskHeader = ({ tasks, filters, setSortedTasks }) => {
   )
 }
 
-export default TaskHeader
+export default TaskHeader;
